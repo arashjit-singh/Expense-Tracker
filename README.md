@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Expense Tracker Home Page] (https://github.com/arashjit-singh/Expense-Tracker/raw/master/blob/master/Expense%20Tracker.png)
+![Expense Tracker Home Page] (https://raw.githubusercontent.com/arashjit-singh/Expense-Tracker/master/Expense%20Tracker.png)
 
 ## Available Scripts
 
