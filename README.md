@@ -2,9 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Beer Listing Home Page](https://github.com/arashjit-singh/Paging3Demo/raw/master/Screenshots/Screenshot_20230516_125742.png)
-
-![Expense Tracker Home Page] (https://raw.githubusercontent.com/arashjit-singh/Expense-Tracker/master/Expense%20Tracker.png)
+![Expense Tracker Home Page] (https://github.com/arashjit-singh/Expense-Tracker/master/Expense%20Tracker.png)
 
 ## Available Scripts
 
